@@ -1,0 +1,1 @@
+java -cp .;../librerias/mysql-connector.jar powerhoteles.alex.gui.Hoteles
